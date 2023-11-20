@@ -1,7 +1,7 @@
 
 
 
-###### Senior Project ####
+###### Senior Project ######
 
 # load installed packages
 
