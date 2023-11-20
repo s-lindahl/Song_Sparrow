@@ -1,0 +1,19 @@
+Date,Location,Time,Zone,Easting,Northing,freq,dB,Notes
+3/5/2022,Blue Lake,9:04 AM,10T,416777,4523905,1642.384,33.3,First real data point collected! Hurrah
+3/12/2022,Blue Lake,8:55 AM,10T,416806,4523540,1161.341,29,
+3/12/2022,Blue Lake,9:42 AM,10T,416635,4523241,1798.205,35.1,
+3/26/2022,Blue Lake,8:39,10T,416569,4523164,1849.899,39.8,
+3/26/2022,Blue Lake,8:44,10T,416626,4523205,1801.325,35.7,
+3/26/2022,Blue Lake,9:06,10T,416827,4523858,2066.225,30.8,
+3/26/2022,Blue Lake,9:12,10T,416626,4523205,2013.245,33.8,"Two SOSP countersinging, analyzing both songs heard"
+3/26/2022,Blue Lake,9:12,10T,416626,4523205,1960.265,33.8,"Two SOSP countersinging, analyzing both songs heard"
+3/26/2022,Blue Lake,9:21,10T,416916,4523640,1947.262,31.9,
+3/26/2022,Blue Lake,9:36,10T,416884,4523647,1854.305,36.5,
+3/26/2022,Blue Lake,9:48,10T,416676,4523378,1849.899,33.3,
+4/3/2022,Blue Lake,9:57,10T,416811,4523635,2373.034,29.2,
+4/3/2022,Blue Lake,10:04,10T,416829,4523831,1907.285,29.6,
+4/3/2022,Blue Lake,10:21,10T,416822,4523640,2004.396,30.4,
+4/3/2022,Blue Lake,10:26,10T,416866,4523684,2247.757,29.6,"Two SOSP countersinging, analyzing both songs heard"
+4/3/2022,Blue Lake,10:26,10T,416866,4523684,1948.056,29.6,"Two SOSP countersinging, analyzing both songs heard"
+4/3/2022,Blue Lake,10:40,10T,416674,4523378,1218.543,35.9,"Two SOSP countersinging, analyzing both songs heard"
+4/3/2022,Blue Lake,10:40,10T,416674,4523378,2119.205,35.9,"Two SOSP countersinging, analyzing both songs heard"
