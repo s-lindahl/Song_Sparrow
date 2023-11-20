@@ -1,7 +1,9 @@
 # Song_Sparrow
 Song Sparrow Song Frequency Study for Senior Project. Statisitical analysis performed in R
 
-This project was completed in May of 2022 while I was in my senior year at California State Polytechnic University, Humboldt
+This project was completed independently in May of 2022 while I was in my senior year at California State Polytechnic University, Humboldt
+
+The R script performs a spearman rank correlation test and plots the data onto a graph that follows the Journal of Wildlife Management publication guidelines. The python script was created to generate a map of the dectected song sparrow locations between the two study areas. Please download the CSVs and adjust your pathing to read the CSVs in R as needed. If you'd like to use the map generator for your own project you will need to modify the code to suit your needs. I have also included my research poster if you'd like to take a look at it. Enjoy!
 
 # ABSTRACT
 
